@@ -14,7 +14,7 @@ Begin MonoManager ReloadAssembly
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.816200 ms
+UnloadTime: 0.846800 ms
 RimWorld 1.5.4297 rev1079 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
@@ -38,8 +38,8 @@ C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\765890823
 C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3319844548 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001D70D879300.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001D70D99F110.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002346731D030.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000023467517180.dll
 Could not find class KurasStones.Settings while resolving node ModSettings. Trying to use KurasStones.StonesModSettings instead. Full node: <ModSettings Class="KurasStones.Settings" /> 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
@@ -64,12 +64,12 @@ DubsMintMenus v1.3.1086
 Rim of Madness - Bones Detected :: Patch Active :: 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001D71608A0A0.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001D70F3B9020.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001D70F3D1A60.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001D70F3DCA70.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001D70F3E9A80.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001D70F3F1290.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000023601BAA020.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000023602E74030.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002360308E040.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002360187F030.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000023602FE2050.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000023602E8CA70.dll
 GAGARIN: <color=green>StartUpStarted called!</color> 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
@@ -91,16 +91,16 @@ ReGrowth: Core 3.6-Mundi-rev9
 ReBuild: Doors and Corners 1.2-Miller-rev4 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>LoadModXML_Profiler</color> took <color=red>4.554</color> seconds 
+GAGARIN: <color=white>LoadModXML_Profiler</color> took <color=red>4.396</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 GAGARIN: CombineIntoUnifiedXML has <color=red>Context.IsUsingCache=False</color> 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>CombineIntoUnifiedXML_Profiler</color> took <color=red>2.808</color> seconds 
+GAGARIN: <color=white>CombineIntoUnifiedXML_Profiler</color> took <color=red>2.756</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>TKeySystem.Parse</color> took <color=red>0.006</color> seconds 
+GAGARIN: <color=white>TKeySystem.Parse</color> took <color=red>0.005</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 LWM Deep Storage: activated compatibility patch for Dubs Bad Hygiene 
@@ -130,7 +130,7 @@ Source file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3367
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>ApplyPatches_Profiler</color> took <color=red>55.616</color> seconds 
+GAGARIN: <color=white>ApplyPatches_Profiler</color> took <color=red>54.44</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 XML error: Could not find parent node named "WDJadeTile" for node "TerrainDef". Full node: <TerrainDef ParentName="WDJadeTile"><defName>WDJadeTileAmethyst</defName><label>amethyst tile</label><description>Simple, but beautiful tiles made of amethyst.</description><costList><KAmethyst>25</KAmethyst></costList><color>(78,44,104)</color></TerrainDef> 
@@ -628,7 +628,7 @@ XML error: Could not find parent node named "WDFineJadeTile" for node "TerrainDe
 XML error: Could not find parent node named "WDFineJadeTile" for node "TerrainDef". Full node: <TerrainDef ParentName="WDFineJadeTile"><defName>WDFineJadeTileTurquoise</defName><label>fine turquoise tile</label><description>Beautiful fine turquoise tile.</description><costList><KTurquoise>25</KTurquoise></costList><color>(71,192,188)</color></TerrainDef> 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>1.177</color> seconds 
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>1.255</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Parsed 0.5 as int. 
@@ -817,7 +817,7 @@ b.4297:12/2/2024 12:00:00 AM:1.5.4297 rev1079
 GAGARIN: <color=white>Cache created!</color> creating cache took <color=green>3 seconds</color> 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>ParseAndProcessXML_Profiler</color> took <color=red>32.344</color> seconds 
+GAGARIN: <color=white>ParseAndProcessXML_Profiler</color> took <color=red>32.042</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 [Rim of Madness - Bones] Patch operation Verse.PatchOperationFindMod(Alpha Animals) failed
@@ -849,12 +849,6 @@ Could not resolve cross-reference: No Verse.SoundDef named VOSB_None found to gi
 Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Could not resolve cross-reference: No Verse.SoundDef named VOSB_None found to give to Verse.ProjectileProperties Verse.ProjectileProperties (using undefined sound instead) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve cross-reference: No Verse.SoundDef named VOSB_None found to give to Verse.ProjectileProperties Verse.ProjectileProperties (using undefined sound instead) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
 Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
@@ -879,7 +873,13 @@ Could not resolve cross-reference: No Verse.SoundDef named VOSB_None found to gi
 Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
+Could not resolve cross-reference: No Verse.SoundDef named VOSB_None found to give to Verse.ProjectileProperties Verse.ProjectileProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
 Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named VOSB_None found to give to Verse.ProjectileProperties Verse.ProjectileProperties (using undefined sound instead) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
@@ -930,10 +930,10 @@ The exception was: System.NullReferenceException: Object reference not set to an
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 GAGARIN: Loading error with error System.IO.DirectoryNotFoundException: Could not find a part of the path "C:\Users\demon\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\RocketMan\Cache\AssetsHash.xml".
-[Ref A98E653A]
- at <0x1d6e0325f40 + 0x00242> <unknown method>
- at <0x1d714c86760 + 0x0005a> <unknown method>
- at <0x1d714c866b0 + 0x00062> <unknown method>
+[Ref 1BBEB8BD]
+ at <0x23462142f60 + 0x00242> <unknown method>
+ at <0x235d98856e0 + 0x0005a> <unknown method>
+ at <0x235d9885630 + 0x00062> <unknown method>
  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare,int,bool)
  at System.Xml.XmlWriterSettings.CreateWriter (System.String outputFileName) [0x00051] in <0f9699188f0c414ea6fb5557f5c16d15>:0 
  at System.Xml.XmlWriter.Create (System.String outputFileName, System.Xml.XmlWriterSettings settings) [0x0000a] in <0f9699188f0c414ea6fb5557f5c16d15>:0 
@@ -962,7 +962,7 @@ Exception from asynchronous event: System.IO.DirectoryNotFoundException: Could n
  at Verse.LongEventHandler.RunEventFromAnotherThread (System.Action action) [0x00008] in <69945a8ed6c540cf90b578de735e0605>:0  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>1.179</color> seconds 
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>1.257</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 No active language! Cannot translate from key ColonistSelections_ModOptions_Category. 
@@ -3378,9 +3378,9 @@ Could not load UnityEngine.Texture2D at Things/Pawn/Humanlike/Apparel/Tailcap/Ta
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Setting up 6 worker threads for Enlighten.
-  Thread -> id: 3a0c -> priority: 1 
-  Thread -> id: 1310 -> priority: 1 
-  Thread -> id: 443c -> priority: 1 
-  Thread -> id: 1c8c -> priority: 1 
-  Thread -> id: 48ec -> priority: 1 
-  Thread -> id: 928 -> priority: 1 
+  Thread -> id: 2fa0 -> priority: 1 
+  Thread -> id: 3f68 -> priority: 1 
+  Thread -> id: 4db8 -> priority: 1 
+  Thread -> id: 4f00 -> priority: 1 
+  Thread -> id: 1cd8 -> priority: 1 
+  Thread -> id: 4b34 -> priority: 1 
